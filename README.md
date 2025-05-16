@@ -105,6 +105,6 @@ Stay safe out there! 🧭
 
 You can scan this Lightning address QR code from your terminal or directly here on GitHub:
 
-➡️  [lightning:andynostr@walletofsatoshi.com]
+➡️  [lightning:andynostr@walletofsatoshi.com](lightning:andynostr@walletofsatoshi.com)
 
 ![Donate via Lightning](lightning.png)
