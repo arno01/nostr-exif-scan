@@ -107,6 +107,7 @@ You can scan this Lightning address QR code from your terminal or directly here 
 
 ➡️  [lightning:andynostr@walletofsatoshi.com]
 
+```
 █████████████████████████████████████
 █████████████████████████████████████
 ████ ▄▄▄▄▄ █▄▄▄ ▀▄ ███▄▀██ ▄▄▄▄▄ ████
@@ -126,3 +127,4 @@ You can scan this Lightning address QR code from your terminal or directly here 
 ████▄▄▄▄▄▄▄█▄█████▄▄███▄▄█▄█▄████████
 █████████████████████████████████████
 █████████████████████████████████████
+```
